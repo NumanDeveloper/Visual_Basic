@@ -1,0 +1,11 @@
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\project-1-employee-info\bin\Debug\project-1-employee-info.exe.config
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\bin\Debug\project-1-employee-info.exe.config
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\bin\Debug\project-1-employee-info.exe
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\bin\Debug\project-1-employee-info.pdb
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\bin\Debug\project-1-employee-info.xml
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\obj\Debug\project_1_employee_info.Form1.resources
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\obj\Debug\project_1_employee_info.Resources.resources
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\obj\Debug\project-1-employee-info.vbproj.GenerateResource.Cache
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\obj\Debug\project-1-employee-info.exe
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\obj\Debug\project-1-employee-info.xml
+C:\Users\Numan Developer\Documents\Visual Studio 2012\Projects\project-1-employee-info\project-1-employee-info\obj\Debug\project-1-employee-info.pdb
