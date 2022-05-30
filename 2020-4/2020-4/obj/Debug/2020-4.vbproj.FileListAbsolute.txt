@@ -1,0 +1,14 @@
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\bin\Debug\2020-4.exe.config
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\bin\Debug\2020-4.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\bin\Debug\2020-4.pdb
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\bin\Debug\2020-4.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\obj\Debug\_2020_4.Form1.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\obj\Debug\_2020_4.Resources.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\obj\Debug\2020-4.vbproj.GenerateResource.Cache
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\obj\Debug\2020-4.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\obj\Debug\2020-4.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-4\obj\Debug\2020-4.pdb
+F:\Visual_Basic\2020-4\2020-4\bin\Debug\2020-4.exe.config
+F:\Visual_Basic\2020-4\2020-4\obj\Debug\2020-4.exe
+F:\Visual_Basic\2020-4\2020-4\obj\Debug\2020-4.xml
+F:\Visual_Basic\2020-4\2020-4\obj\Debug\2020-4.pdb

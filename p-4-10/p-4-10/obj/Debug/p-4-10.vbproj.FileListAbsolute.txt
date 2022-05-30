@@ -1,0 +1,14 @@
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\bin\Debug\p-4-10.exe.config
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\obj\Debug\p_4_10.Form1.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\obj\Debug\p_4_10.Resources.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\obj\Debug\p-4-10.vbproj.GenerateResource.Cache
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\bin\Debug\p-4-10.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\bin\Debug\p-4-10.pdb
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\bin\Debug\p-4-10.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\obj\Debug\p-4-10.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\obj\Debug\p-4-10.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-4-10\obj\Debug\p-4-10.pdb
+F:\Visual_Basic\p-4-10\p-4-10\bin\Debug\p-4-10.exe.config
+F:\Visual_Basic\p-4-10\p-4-10\obj\Debug\p-4-10.exe
+F:\Visual_Basic\p-4-10\p-4-10\obj\Debug\p-4-10.xml
+F:\Visual_Basic\p-4-10\p-4-10\obj\Debug\p-4-10.pdb

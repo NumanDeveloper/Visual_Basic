@@ -1,0 +1,24 @@
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\bin\Debug\2020-6.exe.config
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\bin\Debug\2020-6.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\bin\Debug\2020-6.pdb
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\bin\Debug\2020-6.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\obj\Debug\_2020_6.Form1.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\obj\Debug\_2020_6.Resources.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\obj\Debug\2020-6.vbproj.GenerateResource.Cache
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\obj\Debug\2020-6.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\obj\Debug\2020-6.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\2020-6\obj\Debug\2020-6.pdb
+F:\Visual_Basic\2020-6\2020-6\bin\Debug\2020-6.exe.config
+F:\Visual_Basic\2020-6\2020-6\obj\Debug\2020-6.exe
+F:\Visual_Basic\2020-6\2020-6\obj\Debug\2020-6.xml
+F:\Visual_Basic\2020-6\2020-6\obj\Debug\2020-6.pdb
+F:\Visual Basic\2020-6\2020-6\bin\Debug\2020-6.exe.config
+F:\Visual Basic\2020-6\2020-6\obj\Debug\2020-6.exe
+F:\Visual Basic\2020-6\2020-6\obj\Debug\2020-6.xml
+F:\Visual Basic\2020-6\2020-6\obj\Debug\2020-6.pdb
+F:\Visual Basic\2020-6\2020-6\bin\Debug\2020-6.exe
+F:\Visual Basic\2020-6\2020-6\bin\Debug\2020-6.pdb
+F:\Visual Basic\2020-6\2020-6\bin\Debug\2020-6.xml
+F:\Visual Basic\2020-6\2020-6\obj\Debug\_2020_6.Form1.resources
+F:\Visual Basic\2020-6\2020-6\obj\Debug\_2020_6.Resources.resources
+F:\Visual Basic\2020-6\2020-6\obj\Debug\2020-6.vbproj.GenerateResource.Cache

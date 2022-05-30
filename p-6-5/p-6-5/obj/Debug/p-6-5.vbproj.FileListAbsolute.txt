@@ -1,0 +1,14 @@
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\bin\Debug\p-6-5.exe.config
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\bin\Debug\p-6-5.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\bin\Debug\p-6-5.pdb
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\bin\Debug\p-6-5.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\obj\Debug\p_6_5.Form1.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\obj\Debug\p_6_5.Resources.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\obj\Debug\p-6-5.vbproj.GenerateResource.Cache
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\obj\Debug\p-6-5.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\obj\Debug\p-6-5.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\p-6-5\obj\Debug\p-6-5.pdb
+F:\Visual Basic\p-6-5\p-6-5\bin\Debug\p-6-5.exe.config
+F:\Visual Basic\p-6-5\p-6-5\obj\Debug\p-6-5.exe
+F:\Visual Basic\p-6-5\p-6-5\obj\Debug\p-6-5.xml
+F:\Visual Basic\p-6-5\p-6-5\obj\Debug\p-6-5.pdb

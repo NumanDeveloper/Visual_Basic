@@ -1,0 +1,14 @@
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\bin\Debug\IsArmstrong.exe.config
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\bin\Debug\IsArmstrong.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\bin\Debug\IsArmstrong.pdb
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\bin\Debug\IsArmstrong.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\obj\Debug\IsArmstrong.Form1.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\obj\Debug\IsArmstrong.Resources.resources
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\obj\Debug\IsArmstrong.vbproj.GenerateResource.Cache
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\obj\Debug\IsArmstrong.exe
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\obj\Debug\IsArmstrong.xml
+C:\Users\Numan Developer\AppData\Local\Temporary Projects\IsArmstrong\obj\Debug\IsArmstrong.pdb
+F:\Visual Basic\IsArmstrong\IsArmstrong\bin\Debug\IsArmstrong.exe.config
+F:\Visual Basic\IsArmstrong\IsArmstrong\obj\Debug\IsArmstrong.exe
+F:\Visual Basic\IsArmstrong\IsArmstrong\obj\Debug\IsArmstrong.xml
+F:\Visual Basic\IsArmstrong\IsArmstrong\obj\Debug\IsArmstrong.pdb
